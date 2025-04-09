@@ -1,0 +1,6 @@
+CustomerID,Name,Age,Gender,Country,PurchaseAmount,LastPurchaseDate
+1001,John,28,Male,USA,250,2024-12-10
+1002,Asha,34,Female,India,500,2025-01-15
+1003,David,25,Male,USA,150,2024-11-25
+1004,Meena,45,Female,India,700,2025-02-20
+1005,Kiran,31,Male,India,300,2024-12-30
